@@ -18,3 +18,6 @@ bindgen = { version = "0.68.1", optional = true }
 [features]
 generate-bindings = ["bindgen"]
 doc-only = []
+
+[package.metadata.docs.rs]
+features = ["doc-only"]
