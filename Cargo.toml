@@ -2,6 +2,7 @@
 name = "libarchive-sys"
 version = "0.0.1"
 authors = ["Nuzhdin Urii aka tz-lom <nuzhdin.urii@gmail.com>"]
+readme = "README.md"
 license = "MIT"
 edition = "2021"
 description="Bindings to system library libarchive"
