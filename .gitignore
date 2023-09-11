@@ -1,2 +1,10 @@
-target
-Cargo.lock
+# editor
+*~
+.*~
+*.swp
+*.swo
+\#*#
+
+# rust
+/target/
+/Cargo.lock
